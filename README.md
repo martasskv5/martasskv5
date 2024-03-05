@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martasskv5&theme=darkhub&no-frame=true" alt="martasskv5" /></a> </p>
 
-- 🔭 I’m currently working on [ConsoleRPG game](https://github.com/martasskv5/csharp/tree/main/src/AppsLab-020-OOP)
+- 🔭 I’m currently working on **WP-Hunter project**
 
 - 🌱 I’m currently learning **C#, Python, Linux, Docker**
 ###
