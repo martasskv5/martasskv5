@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martasskv5&theme=darkhub&no-frame=true" alt="martasskv5" /></a> </p>
 
-- 🔭 I’m currently working on **WP-Hunter project**
+- 🔭 I’m currently working on my **website**
 
-- 🌱 I’m currently learning **C#, Python, Linux, Docker**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, Linux, Docker**
 ###
 
 <div align="center">
