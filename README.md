@@ -1,59 +1,80 @@
-<h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">An IT student from Slovakia</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martasskv5&label=Profile%20views&color=0e75b6&style=flat" alt="martasskv5" /> </p>
+# 🌈 Welcome to Martin Michalec's Digital Universe! 🌈
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martasskv5&theme=darkhub&no-frame=true" alt="martasskv5" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&width=435&lines=Hi!+I'm+Martin Michalec;Student;From+KNM, Slovakia;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
-- 🔭 I’m currently working on my **website**
+</div>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, Linux, Docker**
-###
+## 🎯 Current Quest: Trying to build better portfolio site
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=martasskv5&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+### 🛡️ My Arsenal of Skills
+
+```
+🏹 Languages    ████████████████████████████████ 100%
+⚔️  Frameworks   ██████████████████████████████▒▒  90%
+🛠️  Tools        ████████████████████████████▒▒▒▒  85%
+🎨 Design       ██████████████████████▒▒▒▒▒▒▒▒▒▒  75%
+☕ Coffee       ████████████████████████████████ 100%
+```
+
 </div>
 
-###
+## 🎨 What I'm Crafting
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-</div>
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  currentMission: string;
+  superPowers: string[];
+}
 
-###
+const martasskv5: Developer = {
+  name: "Martin Michalec",
+  role: "Student",
+  currentMission: "Trying to build better portfolio site",
+  superPowers: [[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,python,cs,docker,linux,ubuntu,figma,photoshop,illustrator,git,github,vscode,discord)](https://skillicons.dev)],
+}
+```
 
-<br clear="both">
+## 🌟 Fun Adventures & Facts
 
-<img src="https://raw.githubusercontent.com/martasskv5/martasskv5/output/snake.svg" alt="Snake animation" />
+🎯 **Mission Control:** SPŠIT <br/>
+🌍 **Base Location:** KNM, Slovakia <br/>
+🚀 **Current Project:** Trying to build better portfolio site <br/>
+🧠 **Learning Mode:** [![My Skills](https://skillicons.dev/icons?i=js,ts,angular,python,cs,docker,linux,ubuntu,figma,photoshop,illustrator,git,github,vscode,discord)](https://skillicons.dev) <br/>
 
-###
+## 📡 Communication Channels
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martasskv5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martasskv5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+
+| Channel | Status | Link |
+|---------|--------|------|
+| 🌐 Portfolio | 🟢 Online | [Visit](https://martasskv5.github.io/mm-test/index.html?noloading) |
+| 📧 Email | 🟢 Active | [Send Message](mailto:Admin@0z6sw.onmicrosoft.com) |
+| 💼 Company | 🟢 Working | SPŠIT |
+
 </div>
 
-###
+## 🎮 Achievement Board
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martasskv5&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martasskv5&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 "The best way to predict the future is to create it!" 🌟
+
+*Thanks for joining my digital adventure! Let's build something amazing together! 🚀*
+
+</div>
